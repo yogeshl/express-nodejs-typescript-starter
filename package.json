@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yogeshl/express-nodejs-typescript-starter/issues"
   },
-  "homepage": "https://github.com/yogeshl/express-nodejs-typescript-starter#readme"
+  "homepage": "https://github.com/yogeshl/express-nodejs-typescript-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
